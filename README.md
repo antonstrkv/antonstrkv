@@ -42,6 +42,6 @@
 
 ### Stats :
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=antonstrkv&theme=light&background=fffff)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=antonstrkv&theme=vision-friendly-dark&background=00000)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=antonstrkv&layout=compact&theme=vision-friendly-light)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=antonstrkv&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
