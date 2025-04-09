@@ -5,7 +5,7 @@ Hi there 👋 I'm Software Engineer/Technical Support Team Lead at [Creatio](htt
 
 Fast learner and eager to explore new technologies. Able to switch between perfectionism and pragmatism. Believer in agile software development, team work and Clean Code. Always questioning the status quo and wanting to improve. Able and willing to think outside the box.
 
-Please find me on [LinkedIn](https://www.linkedin.com/in/antonstarikov/) for a more detailed description of my full work experience, education and certification. You can get in touch with me by email at [starikov.anton48@gmail.com](mailto:starikov.anton48@gmail.com).
+Please find me on [LinkedIn](https://www.linkedin.com/in/antonstarikov/) for a more detailed description of my full work experience, education and certification.
 
 <!-- https://github-readme-stats.vercel.app/api?username=DennisHartrampf&show_icons=true -->
 <p>
