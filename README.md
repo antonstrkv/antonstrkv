@@ -15,5 +15,3 @@ Please find me on [LinkedIn](https://www.linkedin.com/in/antonstarikov/) for a m
   <a href="#"><img src="https://img.shields.io/badge/TypeScript-Specialist-_.svg"></a>
   <a href="#"><img src="https://img.shields.io/badge/Clean%20Code-Evangelist-_.svg"></a>
 </p>
-
-<hr>
